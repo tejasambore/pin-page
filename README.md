@@ -32,8 +32,8 @@ project-folder/
 
 ## Screenshot
 
-![Light Mode](https://drive.google.com/file/d/1_sLFNIunTlxUokPhTZUuxVb2HgJiW1C3/view?usp=sharing)
-![Dark Mode](https://drive.google.com/file/d/1yvkCbJmMLenpbhdqGmtlamHxh0XykaeL/view?usp=sharing)
+![Light Mode](https://drive.google.com/file/d/1_sLFNIunTlxUokPhTZUuxVb2HgJiW1C3/view)
+![Dark Mode](https://drive.google.com/file/d/1yvkCbJmMLenpbhdqGmtlamHxh0XykaeL/view)
 
 
 ## Customization
